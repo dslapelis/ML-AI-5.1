@@ -33,3 +33,8 @@ farming, or forestry, 71% were likely to accept the coupon.
 Out of the analyzed groups, it is recommended to continue targeting drivers who are not driving with kids, those who 
 infrequently (less than 3 times per month) visit the bar, and who do not work in fishing, farming, or forestry. These drivers 
 are more likely than average to use the coupon and visit the bar.
+
+A secondary group to continue to pursue are those who visit the bar more than once per month and are over 25. They appear 
+more likely to accept the coupon than those who are younger.
+
+By targeting these demographics, we can maximize the return on investment of offering coupons to drivers.
